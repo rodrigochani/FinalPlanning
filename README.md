@@ -1,7 +1,7 @@
-# Análisis de índices NDVI y MNDWI
+# Análisis de vegetación y agua en el Embalse Los Molinos para el 18/08/2023 con imágenes Landsat 8
 
 ## Descripción del proyecto
-Este proyecto se centra en la evaluación de imágenes satelitales utilizando los índices NDVI (Normalized Difference Vegetation Index) y MNDWI (Modified Normalized Difference Water Index). El objetivo principal es identificar y analizar áreas de vegetación y cuerpos de agua, proporcionando visualizaciones claras y estadísticas detalladas.
+Este proyecto se centra en la evaluación de imágenes satelitales -del 18/08/2023- utilizando los índices NDVI (Normalized Difference Vegetation Index) y MNDWI (Modified Normalized Difference Water Index). El objetivo principal es identificar y analizar áreas de vegetación y cuerpos de agua, proporcionando visualizaciones claras y estadísticas detalladas.
 
 ### Definición de índices
 #### NDVI (Índice de Vegetación de Diferencia Normalizada)
@@ -45,7 +45,7 @@ Imagenes_Landsat/
 └── Imágenes y gráficos generados a partir del análisis.
 
 ## Requisitos
-- Python 3.8+
+- Python 3.8+ (Python 3.12.1)
 - Librerías necesarias: numpy, matplotlib, rasterio, shapely, geopandas, scipy, skimage, zipfile.
 Instala las dependencias necesarias utilizando el siguiente comando:
 ```
@@ -53,8 +53,8 @@ pip install -r requirements.txt
 ```
 
 ## Flujo de Trabajo
-1. Pre-procesamiento de Datos
-Descompresión y Carga de Imágenes
+1. Pre-procesamiento de datos
+Descompresión y carga de imágenes desde el directorio del repositorio
 
 ## Descomprimir el archivo ZIP
 ```
