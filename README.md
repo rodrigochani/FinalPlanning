@@ -45,7 +45,7 @@ Imagenes_Landsat/
 └── Imágenes y gráficos generados a partir del análisis.
 
 ## Requisitos
-- Python 3.8+
+- Python 3.8+ (Python 3.12.1)
 - Librerías necesarias: numpy, matplotlib, rasterio, shapely, geopandas, scipy, skimage, zipfile.
 Instala las dependencias necesarias utilizando el siguiente comando:
 ```
