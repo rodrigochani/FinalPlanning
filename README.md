@@ -53,8 +53,8 @@ pip install -r requirements.txt
 ```
 
 ## Flujo de Trabajo
-1. Pre-procesamiento de Datos
-Descompresión y Carga de Imágenes
+1. Pre-procesamiento de datos
+Descompresión y carga de imágenes desde el directorio del repositorio
 
 ## Descomprimir el archivo ZIP
 ```
