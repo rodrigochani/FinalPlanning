@@ -1,7 +1,7 @@
-# Análisis de índices NDVI y MNDWI
+# Análisis de índices NDVI y MNDWI usando imágenes Landsat 8
 
 ## Descripción del proyecto
-Este proyecto se centra en la evaluación de imágenes satelitales utilizando los índices NDVI (Normalized Difference Vegetation Index) y MNDWI (Modified Normalized Difference Water Index). El objetivo principal es identificar y analizar áreas de vegetación y cuerpos de agua, proporcionando visualizaciones claras y estadísticas detalladas.
+Este proyecto se centra en la evaluación de imágenes satelitales -del 18/08/2023- utilizando los índices NDVI (Normalized Difference Vegetation Index) y MNDWI (Modified Normalized Difference Water Index). El objetivo principal es identificar y analizar áreas de vegetación y cuerpos de agua, proporcionando visualizaciones claras y estadísticas detalladas.
 
 ### Definición de índices
 #### NDVI (Índice de Vegetación de Diferencia Normalizada)
