@@ -35,15 +35,14 @@ Valores negativos o bajos indican la ausencia de agua, mostrando en cambio terre
 ## Estructura del proyecto
 scripts/
 │
-├── main_analysis.py # Script principal que contiene todo el flujo de procesamiento y análisis.
-└── utils.py # Contiene funciones auxiliares como unzip_files, load_band, calculate_ndvi, etc.
+└── final_planning.ipynb # Script principal que contiene todo el flujo de procesamiento y análisis.
 
 data/
 │
 └── Los-Molinos_2023-08-18_8_all_bands.zip # Archivo ZIP que contiene las bandas espectrales necesarias.
 
-outputs/
-├── Imágenes y gráficos generados a partir del análisis.
+Imagenes_Landsat/
+└── Imágenes y gráficos generados a partir del análisis.
 
 ## Requisitos
 - Python 3.8+
