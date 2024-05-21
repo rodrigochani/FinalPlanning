@@ -1,0 +1,8 @@
+numpy
+matplotlib
+rasterio
+shapely
+geopandas
+scipy
+scikit-image
+zipfile
